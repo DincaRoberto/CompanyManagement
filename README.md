@@ -1,5 +1,5 @@
 
-# GETTING STARTED
+_# GETTING STARTED_
 
 1. To get started just run
     ```
